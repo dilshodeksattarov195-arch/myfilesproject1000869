@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheconnect",
+        "uuid": 5198358,
+        "checksum": "2wbyh4"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
